@@ -35,7 +35,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/hamdi-dridi-tn)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/hamdi-dridi-tn/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://www.instagram.com/hamdidridi_/)
 
 ---
