@@ -9,7 +9,6 @@
 - 📚 **E-Business student** at ESSECT.
 - 💻 Passionate about **web development**, **software engineering**, and **AI**.
 - 🎯 Goal: To become a **full-stack developer** and **entrepreneur**.
-- 🌐 Interests: **cars**, **motorbikes**, **fitness**, **astronomy**, and **technology**.
 
 ---
 
